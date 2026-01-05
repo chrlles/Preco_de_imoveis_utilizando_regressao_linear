@@ -3,6 +3,6 @@
 
 ###- Análise Exploratória de Dados (EDA): Identificação de correlações entre variáveis (ex: metragem, localização, número de quartos) e o preço final, utilizando bibliotecas como Pandas, Seaborn e Matplotlib.
 - Engenharia de Atributos: Tratamento de outliers e conversão de variáveis categóricas para otimizar a performance do algoritmo.
-- Modelagem Estatística: Implementação de Regressão Linear (Scikit-Learn) para quantificar o impacto de cada característica no preço (coeficientes).
+- Modelagem Estatística: Implementação de Regressão Linear (Scikit-Learn) para quantificar o impacto de cada característica no preço (coeficientes).###
 
   
